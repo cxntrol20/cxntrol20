@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hey, I'm cxntrol20 👋
 
-<!--
-**cxntrol20/cxntrol20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer focused on web development, backend systems, automation, and building cool stuff.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,docker,lua,mysql,html,css,ruby" />
+</p>
+
+## 🚀 Currently
+
+- Building projects
+- Learning new technologies
+- Improving workflows and tooling
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cxntrol20&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxntrol20&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=cxntrol20&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>Code. Learn. Repeat.</i>
+</p>
